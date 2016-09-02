@@ -1,0 +1,1 @@
+# submodule-move-merge-bug-submodule-repo
